@@ -23,8 +23,9 @@ Trabalho com uma variedade de tecnologias modernas, como:
 </div>
 
 ## Portifólio 🚀
-<img src="./telaPotifolio.jpg">
-
+<a href="https://diogog-dev.github.io/Portifolio/">
+    <img src="./telaPotifolio.jpg">
+</a>
 <div align=center>Confira meu portifólio clicando <a href="https://diogog-dev.github.io/Portifolio/">aqui!</a></div>
 
 ## Principais Projetos 🌟
