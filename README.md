@@ -29,7 +29,7 @@ Trabalho com uma variedade de tecnologias modernas, como:
 ## Principais Projetos 🌟
 - <a href="https://github.com/DiogoG-dev/BatmanPage">BatmanPage</a><br>
 Uma página interativa dedicada a venda de ingressos do filme The Batman (2022).
-- <a href="https://diogog-dev.github.io/StarWarsCharacters">Star Wars Characters</a><br>
+- <a href="https://github.com/DiogoG-dev/StarWarsCharacters">Star Wars Characters</a><br>
 Página de apresentação dos persongens do filme Star Wars.
 - <a href="https://github.com/DiogoG-dev/SisGeps_Mobile">SisGeps</a><br>
 Aplicativo móvel de gerenciamento de estoque para supermercados, desenvolvido em equipe.
