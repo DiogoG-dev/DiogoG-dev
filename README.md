@@ -22,7 +22,7 @@ Trabalho com uma variedade de tecnologias modernas, como:
 
 ## Portifólio 🚀
 <a href="https://diogog-dev.github.io/Portifolio/">
-    <img src="./telaPortifolio.jpg">
+    <img src="https://raw.githubusercontent.com/DiogoG-dev/BatmanPage-react/main/telaPortifolio.jpg">
 </a>
 <div align=center>Confira meu portifólio clicando <a href="https://diogog-dev.github.io/Portifolio/">aqui!</a></div>
 
