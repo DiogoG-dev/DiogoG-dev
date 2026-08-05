@@ -2,10 +2,6 @@
 ### Desenvolvedor FullStack | Freelancer apaixonado por inovação e soluções escaláveis.
 Sempre em busca de novos desafios, com foco em criar aplicações eficientes, ágeis e de fácil manutenção.
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DiogoG-dev&theme=blue-green">
-</div>
-
 ## Tecnologias 💻
 Trabalho com uma variedade de tecnologias modernas, como:
 
