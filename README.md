@@ -23,6 +23,8 @@ Trabalho com uma variedade de tecnologias modernas, como:
 <div align=center>Confira meu portifólio clicando <a href="https://diogog-dev.github.io/Portifolio/">aqui!</a></div>
 
 ## Principais Projetos 🌟
+- <a href="https://github.com/DiogoG-dev/SisGeps_Mobile">TrackMate 0.4 XE</a><br>
+Landing Page para Smartwatch moderno.
 - <a href="https://github.com/DiogoG-dev/BatmanPage-react">BatmanPage</a><br>
 Uma página interativa dedicada a venda de ingressos do filme The Batman (2022).
 - <a href="https://github.com/DiogoG-dev/StarWarsCharacters">Star Wars Characters</a><br>
